@@ -1,0 +1,10 @@
+2.0 (2015) - Mejora de la interfaz y resolucion de algunos fallos.
+
+3.0 (11/10/2016) - Se cambian las clases que de lectura y escritura de los archivos porque dan problemas con algunos caracteres en WINDOWS
+
+3.1 (14/11/2016) - Solucion problema al recortar titulos mayores de 100 caracteres con una longitud determinada.
+	  			   Informa de que titulos de unidad se han recortado.
+	  			   Solucionado problema de conversion en WINDOWS que no escribia en codificacion UTF-8
+	  
+3.2 (22/11/2016) - Al importar el zip a lesson builder aparece con el nombre identificador que se indica en el programa conversor
+	  			 - Localizado y solucionado el problema por el que a veces desaparecía tras la conversion el archivo .zip original convertido.	
